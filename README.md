@@ -14,9 +14,7 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=diyarguzelses&show_icons=true&theme=tokyonight&hide_border=true" width="100%"/>
     </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=diyarguzelses&theme=tokyonight&hide_border=true" width="100%"/>
-    </td>
+    
   </tr>
 </table>  
 
