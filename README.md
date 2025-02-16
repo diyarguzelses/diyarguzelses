@@ -30,7 +30,7 @@
 
 
 ## 🔥 GitHub Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=KULLANICI_ADIN&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=diyarguzelses&theme=tokyonight&hide_border=true)
 
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=diyarguzelses&theme=tokyonight)
