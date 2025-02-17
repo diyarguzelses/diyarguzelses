@@ -3,7 +3,7 @@ name: Generate Snake Animation
 on:
   schedule:
     - cron: "0 0 * * *"  # Every day at midnight
-  workflow_dispatch:  # Allow manual run
+  workflow_dispatch:
 
 jobs:
   generate:
@@ -19,7 +19,6 @@ jobs:
         with:
           github_user_name: diyarguzelses
           outputs: |
-            dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
