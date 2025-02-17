@@ -90,7 +90,7 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=diyarguzelses&theme=tokyonight&hide_border=true">
 </p>  
-
+## 🐍 GitHub Contribution Snake  
 <p align="center">
   <img src="https://raw.githubusercontent.com/diyarguzelses/output/github-contribution-grid-snake-dark.svg" />
 </p>
