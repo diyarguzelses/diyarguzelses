@@ -75,7 +75,6 @@
 <h2 align="center">My GitHub Stats :bar_chart:</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=diyarguzelses&show_icons=true&theme=radical&count_private=true" alt="diyarguzelses :: Profile Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyarguzelses&theme=radical&layout=compact&count_private=true" alt="diyarguzelses :: Top Langs" />
 </p>
 <!---
 <div align="center">
