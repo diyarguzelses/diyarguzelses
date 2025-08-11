@@ -84,8 +84,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=diyarguzelses&theme=tokyonight&no-frame=true&margin-w=10">
 </p>  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=diyarguzelses&theme=tokyonight&hide_border=true">
-</p>  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=diyarguzelses&theme=tokyonight&hide_border=true&area=true&bg_color=1a1b27&color=36BCF7&line=36BCF7&point=ffffff">
+</p>
 <div  align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/diyarguzelses/diyarguzelses/blob/output/github-contribution-grid-snake-dark.svg" />
