@@ -49,9 +49,6 @@
   <a href="https://www.php.net" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
   </a>
-  <a href="https://www.photoshop.com/en" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-  </a> 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a>
@@ -75,7 +72,6 @@
 <h2 align="center">My GitHub Stats :bar_chart:</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=diyarguzelses&show_icons=true&theme=radical&count_private=true" alt="diyarguzelses :: Profile Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyarguzelses&theme=radical&layout=compact&count_private=true" alt="diyarguzelses :: Top Langs" />
 </p>
 <!---
 <div align="center">
@@ -88,11 +84,14 @@
   <img src="https://github-profile-trophy.vercel.app/?username=diyarguzelses&theme=tokyonight&no-frame=true&margin-w=10">
 </p>  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=diyarguzelses&theme=tokyonight&hide_border=true">
-</p>  
-## 🐍 GitHub Contribution Snake  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/diyarguzelses/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=diyarguzelses&theme=tokyonight&hide_border=true&area=true&bg_color=1a1b27&color=36BCF7&line=36BCF7&point=ffffff">
 </p>
+<div  align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/diyarguzelses/diyarguzelses/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/diyarguzelses/diyarguzelses/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/diyarguzelses/diyarguzelses/blob/output/github-contribution-grid-snake.svg" />
+</picture>
+</div>
 
 
