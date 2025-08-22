@@ -87,12 +87,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=diyarguzelses&theme=tokyonight&hide_border=true&area=true&bg_color=1a1b27&color=36BCF7&line=36BCF7&point=ffffff">
 </p>
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diyarguzelses/diyarguzelses/output/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diyarguzelses/diyarguzelses/output/pacman-contribution-graph.svg" />
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/diyarguzelses/diyarguzelses/output/pacman-contribution-graph.svg" />
-</picture>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/diyarguzelses/diyarguzelses/output/space-invaders.svg" alt="Space Invaders Contribution Graph" />
+</p>
 
 
 
