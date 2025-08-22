@@ -1,0 +1,30 @@
+name: Generate Space Invaders Graph
+
+on:
+  schedule:
+
+    - cron: "0 1 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Build Space Invaders SVG
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Space Invaders
+        uses: Platane/snk@master
+        with:
+          github_user_name: diyarguzelses
+          outputs: |
+            dist/space-invaders.svg
+
+      - name: Push generated files
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: github-actions
+          author_email: actions@github.com
+          message: "chore: update Space Invaders graph"
+          add: "dist/space-invaders.svg"
