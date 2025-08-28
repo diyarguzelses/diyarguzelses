@@ -1,10 +1,16 @@
 name: generate pacman contribution
 on:
+  # run automatically every 6 hours
   schedule:
-    - cron: "0 0 * * *"   # Her gün UTC 00:00'da çalışır
-  workflow_dispatch:       # Elle tetikleme
+    - cron: "0 */6 * * *" 
+  
+  # allows to manually run the job at any time
+  workflow_dispatch:
+  
+  # run on every push on the master branch
   push:
-    branches: [ main ]
+    branches:
+    - master
 
 jobs:
   generate:
